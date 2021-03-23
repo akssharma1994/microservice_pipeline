@@ -3,7 +3,7 @@ import random
 
 app = Flask(__name__)
 
-# list of cat images
+# list of cat images please
 image_urls_map = {
     "https://versha-project.s3-us-west-2.amazonaws.com/compressed_jenkins-min.jpg": "https://versha-project.s3-us-west-2.amazonaws.com/IMG_9086.JPG",
     "https://versha-project.s3-us-west-2.amazonaws.com/compressed_jenkins-min.jpg": "https://versha-project.s3-us-west-2.amazonaws.com/IMG_9086.JPG",
